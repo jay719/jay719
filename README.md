@@ -1,4 +1,10 @@
-### Hi there 👋
+### 🐐 What's up, I'm Javaria! 🐐
+
+Full stack developer and native of Colorado Springs. Passion for learning new tech to build upon my roots in Ruby on Rails and Javascript. I love intergrating my customer experience background with my code to create user-friendly applications. 
+
+
+When taking a break from the city/mountain life, I enjoy collaborating on projects and problem solving with others.
+
 
 <!--
 **jay719/jay719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
