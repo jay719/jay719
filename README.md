@@ -1,4 +1,4 @@
-### 🐐 What's up, I'm Javaria! 🐐
+#### 🐐 What's up, I'm Javaria! 🐐
 
 Full stack developer and native of Colorado Springs. Passion for as problem solving with others and learning new tech to build upon my roots in Ruby on Rails and Javascript. I love intergrating my customer experience background with my code to create user-friendly applications. 
 
