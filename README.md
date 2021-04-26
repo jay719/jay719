@@ -7,6 +7,19 @@ When I finally take a break from the computer I enjoy hiking and playing video g
 
 ## My Babies
 
+G.O.A.T Planning  - Github | Demo
+By far the Greatest Of All Time trip planning app. Before graduating Flatiron School we were tasked to make an app using technology outside of our curriculum. G.T Planning uses react-native libraries, accesses the react-redux store to manage state, and deploys directly using expo. 
+
+Snack Maps - Github | Demo
+All are welcome to sign in and enjoy Snack Maps, your Local Restaurant finder
+“If you or any of your loved ones are hangry, this app is the perfect solution.” - Satisfied User
+Joined Javascript, HTML, and CSS to render api data based on user click-events
+Established Ruby On Rails backend to handle sign up and sign in authorization
+
+Animania- Team Github | Demo
+ World's top 50 Anime selector
+Collaborated with my previous project partner to produce an app with API integration
+
 
 ## Proficient Languages/Frameworks
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="45" height="45"/>&nbsp; &nbsp;<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="45" height="45"/>&nbsp; &nbsp;<img src="https://reactnavigation.org/img/spiro.svg" width="45" height="45"/>&nbsp; &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="45" height="45"/>&nbsp; &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/396px-Ruby_logo.svg.png" width="45" height="45"/>&nbsp; &nbsp;<img src="https://www.vepsun.in/img/new-courses/ruby_on_rails.png" width="50" height="45"/>&nbsp; &nbsp;&nbsp; &nbsp; <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="45" height="45"/> &nbsp; &nbsp;<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="45" height="45"/>&nbsp; &nbsp; <img src="https://sqlbackupandftp.com/blog/wp-content/uploads/2015/01/mysql-logo_2800x2800_pixels1.png" width="65" height="45"/>
