@@ -5,7 +5,7 @@ Full stack developer and native of Colorado Springs. Passion for as problem solv
 
 When I finally take a break from the computer I enjoy hiking and playing video games with my co-workers/friends 🎮🌄. Quality music and food are my other passions, so if you have good taste or are a programmer feel free to reach out below!
 
-### My Babies
+## My Babies
 
 G.O.A.T Planning - Github | Demo
 By far the Greatest Of All Time trip planning app. Before graduating Flatiron School we were tasked to make an app using technology outside of our curriculum. G.T Planning primarily relies on react-native libraries, has real password encryption utilizing JWT's, manages state using react-redux, and deploys directly using expo. 
