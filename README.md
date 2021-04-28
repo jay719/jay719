@@ -11,7 +11,7 @@ When I finally take a break from the computer I enjoy hiking and playing video g
 
 By far the Greatest Of All Time trip planning app. Before graduating Flatiron School we were tasked to make an app using technology outside of our curriculum. G.T Planning primarily relies on react-native libraries, has real password encryption utilizing JWT's, manages state using react-redux, and deploys directly using expo. 
 
-Snack Maps - <a href=" ">Github</a> | <a href=" ">Demo</a>
+Snack Maps - <a href="https://github.com/jay719/mod3-project">Github</a> | <a href="https://www.youtube.com/watch?v=nVxz5scZzgA&ab_channel=JavariaBrascom">Demo</a>
 All are welcome to sign in and enjoy Snack Maps, your Local Restaurant finder
 “If you or any of your loved ones are hangry, this app is the perfect solution.” - Satisfied User
 During the third mod of oined Javascript, HTML, and CSS to render api data based on user click-events
