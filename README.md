@@ -35,7 +35,7 @@ Collaborated with my previous project partner to produce an app with API integra
 <a href='https://javariab17.medium.com/'><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 
-
+<a href='https://www.youtube.com/channel/UCGb8ITBFK5fvyBCo_I_BOuQ'><img alt="Youtube" src="https://img.shields.io/badge/Javaria%20Brascom%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 
 <!--
