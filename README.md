@@ -28,7 +28,7 @@ Collaborated with my previous project partner to produce an app with API integra
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png" width="45" height="45"/> &nbsp; &nbsp;<img src="https://i.imgur.com/eeYUFCO.png" width="45" height="45"/>
 &nbsp; &nbsp; <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png" width="45" height="45"/>
 
-## Linked In & Email
+## Get To Know Me
 
 <a href='https://www.linkedin.com/in/javaria-brascom-0510991bb/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
