@@ -7,7 +7,7 @@ When I finally take a break from the computer I enjoy hiking and playing video g
 
 ## My Babies
 
-🗺 G.O.A.T Planning -<a href=" ">Github</a> | <a href=" ">Demo</a>
+🗺 G.O.A.T Planning -<a href="https://github.com/jay719/FlatironCapstone">Github</a> | <a href="https://www.youtube.com/watch?v=YSNof3v78aM&ab_channel=JavariaBrascom">Demo</a>
 
 By far the Greatest Of All Time trip planning app. Before graduating Flatiron School we were tasked to make an app using technology outside of our curriculum. G.T Planning primarily relies on react-native libraries, has real password encryption utilizing JWT's, manages state using react-redux, and deploys directly using expo. 
 
