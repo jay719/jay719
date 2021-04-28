@@ -13,8 +13,8 @@ By far the Greatest Of All Time trip planning app. Before graduating Flatiron Sc
 Snack Maps - Github | Demo
 All are welcome to sign in and enjoy Snack Maps, your Local Restaurant finder
 “If you or any of your loved ones are hangry, this app is the perfect solution.” - Satisfied User
-Joined Javascript, HTML, and CSS to render api data based on user click-events
-Established Ruby On Rails backend to handle sign up and sign in authorization
+During the third mod of oined Javascript, HTML, and CSS to render api data based on user click-events
+Established Ruby On Rails backend to handle sign up and sign in authorization with JWT.
 
 Animania- Team Github | Demo
  World's top 50 Anime selector
@@ -22,7 +22,7 @@ Collaborated with my previous project partner to produce an app with API integra
 
 
 ## Proficient Languages/Frameworks
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="45" height="45"/>&nbsp; &nbsp;<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="45" height="45"/> &nbsp; &nbsp; <img src="https://www.dsmwebgeeks.com/app/uploads/2019/06/react-native.png" width="80" height="45"/>&nbsp; &nbsp;<img src="https://reactnavigation.org/img/spiro.svg" width="45" height="45"/>&nbsp; &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="45" height="45"/>&nbsp; &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/396px-Ruby_logo.svg.png" width="45" height="45"/>&nbsp; &nbsp;<img src="https://www.vepsun.in/img/new-courses/ruby_on_rails.png" width="80" height="55"/>&nbsp; &nbsp; <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="" height="45"/> &nbsp; &nbsp;<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="45" height="45"/>&nbsp; &nbsp; <img src="https://sqlbackupandftp.com/blog/wp-content/uploads/2015/01/mysql-logo_2800x2800_pixels1.png" width="65" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="45" height="45"/>&nbsp; &nbsp;<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="45" height="45"/> &nbsp; &nbsp; <img src="https://www.dsmwebgeeks.com/app/uploads/2019/06/react-native.png" width="80" height="45"/>&nbsp; &nbsp;<img src="https://reactnavigation.org/img/spiro.svg" width="45" height="45"/>&nbsp; &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="45" height="45"/>&nbsp; &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/396px-Ruby_logo.svg.png" width="45" height="45"/>&nbsp; &nbsp;<img src="https://www.vepsun.in/img/new-courses/ruby_on_rails.png" width="8   0" height="55"/>&nbsp; &nbsp; <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="" height="45"/> &nbsp; &nbsp;<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="45" height="45"/>&nbsp; &nbsp; <img src="https://sqlbackupandftp.com/blog/wp-content/uploads/2015/01/mysql-logo_2800x2800_pixels1.png" width="65" height="45"/>
 
 ## Learning 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png" width="45" height="45"/> &nbsp; &nbsp;<img src="https://i.imgur.com/eeYUFCO.png" width="45" height="45"/>
@@ -30,9 +30,7 @@ Collaborated with my previous project partner to produce an app with API integra
 
 ## Linked In & Email
 
-https://www.linkedin.com/in/javaria-brascom-0510991bb
-
-javariab17@gmail.com
+<a href='https://www.linkedin.com/in/javaria-brascom-0510991bb/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 
