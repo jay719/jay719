@@ -14,8 +14,7 @@ By far the Greatest Of All Time trip planning app. Before graduating Flatiron Sc
 Snack Maps - <a href="https://github.com/jay719/mod3-project">Github</a> | <a href="https://www.youtube.com/watch?v=nVxz5scZzgA&ab_channel=JavariaBrascom">Demo</a>
 All are welcome to sign in and enjoy Snack Maps, your Local Restaurant finder
 “If you or any of your loved ones are hangry, this app is the perfect solution.” - Satisfied User
-During the third mod of oined Javascript, HTML, and CSS to render api data based on user click-events
-Established Ruby On Rails backend to handle sign up and sign in authorization with JWT.
+During the third mod of flatiron I was tasked with joining Javascript, HTML, and CSS to render api data based on user click-events. I also established Ruby On Rails backend to handle sign up and sign in authorization with JWT.
 
 Animania- <a href="https://github.com/TheRealKevBot/Animania">Team Github</a>| <a href=" ">Demo</a>
  World's top 50 Anime selector
