@@ -17,7 +17,7 @@ All are welcome to sign in and enjoy Snack Maps, your Local Restaurant finder
 During the third mod of oined Javascript, HTML, and CSS to render api data based on user click-events
 Established Ruby On Rails backend to handle sign up and sign in authorization with JWT.
 
-Animania- Team <a href=" ">Github</a>| <a href=" ">Demo</a>
+Animania- <a href="https://github.com/TheRealKevBot/Animania">Team Github</a>| <a href=" ">Demo</a>
  World's top 50 Anime selector
 Collaborated with my previous project partner to produce an app with API integration
 
