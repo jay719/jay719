@@ -11,12 +11,12 @@ When I finally take a break from the computer I enjoy hiking and playing video g
 
 By far the Greatest Of All Time trip planning app. Before graduating Flatiron School we were tasked to make an app using technology outside of our curriculum. G.T Planning primarily relies on react-native libraries, has real password encryption utilizing JWT's, manages state using react-redux, and deploys directly using expo. 
 
-Snack Maps - <a href="https://github.com/jay719/mod3-project">Github</a> | <a href="https://www.youtube.com/watch?v=nVxz5scZzgA&ab_channel=JavariaBrascom">Demo</a>
+🍴 Snack Maps - <a href="https://github.com/jay719/mod3-project">Github</a> | <a href="https://www.youtube.com/watch?v=nVxz5scZzgA&ab_channel=JavariaBrascom">Demo</a>
 All are welcome to sign in and enjoy Snack Maps, your Local Restaurant finder
 “If you or any of your loved ones are hangry, this app is the perfect solution.” - Satisfied User
 During the third mod of flatiron I was tasked with joining Javascript, HTML, and CSS to render api data based on user click-events. I also established Ruby On Rails backend to handle sign up and sign in authorization with JWT.
 
-Animania- <a href="https://github.com/TheRealKevBot/Animania">Team Github</a>| <a href=" ">Demo</a>
+📺 Animania- <a href="https://github.com/TheRealKevBot/Animania">Team Github</a>| <a href=" ">Demo</a>
  World's top 50 Anime selector
 Collaborated with my previous project partner to produce an app with API integration
 
