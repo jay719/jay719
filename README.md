@@ -30,7 +30,7 @@ Collaborated with my previous project partner to produce an app with API integra
 
 ## Get To Know Me
 
-<a href='https://www.linkedin.com/in/javaria-brascom-0510991bb/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href='https://www.linkedin.com/in/javaria-brascom/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <a href='https://javariab17.medium.com/'><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
