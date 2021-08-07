@@ -1,6 +1,6 @@
 ## 🐐 What's up, I'm Javaria! 🐐
 
-Full stack developer and native of Colorado Springs. Passion for as problem solving with others and learning new tech to build upon my roots in Ruby on Rails and Javascript. I love intergrating my customer experience background with my code to create user-friendly applications. 
+Full stack developer and native of Colorado Springs. Passion for problem solving with others and learning new tech to build upon my roots in Ruby on Rails and Javascript. I love intergrating my customer experience background with my code to create user-friendly applications. 
 
 
 When I finally take a break from the computer I enjoy hiking and playing video games with my co-workers/friends 🎮🌄. Quality music and food are my other passions, so if you have good taste or are a programmer feel free to reach out below!
