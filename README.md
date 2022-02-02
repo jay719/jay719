@@ -1,4 +1,4 @@
-## <🐐 Welcome to Javaria's Github! I am starting the 1 hour of code challenge Feb/01/2021, welcome to my journey 🐐>
+## <🐐 Welcome to Javaria's Github! I am starting the 1 hour of code challenge Feb/02/2021, welcome to my journey 🐐>
 
 Full stack developer and native of Colorado Springs. Passion for problem solving with others and learning new tech to build upon my foundation in Ruby on Rails and Javascript. I love intergrating my customer experience background with my code to create user-friendly applications. 
 
